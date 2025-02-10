@@ -65,7 +65,7 @@ Here you will find the main links and references for my awareness of IT developm
 </td></tr></table>  
 
 ----
-## information about CVEs and security vulnerabilities
+## Information about CVEs and security vulnerabilities
 <table><tr><td valign="top" width="100%">
 
 - ❓ [Log4j CVE](https://www.cve.org/CVERecord?id=CVE-2021-44228)
