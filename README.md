@@ -43,6 +43,28 @@ Here you will find the main links and references for my awareness of IT developm
 </td></tr></table>  
 
 ----
+## Humans at the heart of application security
+<table><tr><td valign="top" width="100%">
+
+- 🌱 [Standardize your development lines](https://google.github.io/styleguide/)
+- 🌱 [Standardize your pipelines](https://www.jetbrains.com/teamcity/ci-cd-guide/)
+- 🌱 [Organize security breach management](https://clusif.fr/wp-content/uploads/2016/04/clusif-2015-gt-gestionvulnerabilites-tome2_vf.pdf)
+- 🌱 [Secret Detection](https://github.com/gitleaks/gitleaks)
+- 🌱 [Static code analysis](https://blog.apps.education.fr/articles/sonarqube-un-thermometre-pour-controler-la-qualite-du-code2025-01-16t161922228z)
+- 🌱 [Dependency Fault Analysis](https://github.com/jeremylong/DependencyCheck)
+- 🌱 [Static security analysis](https://docs.horusec.io/docs/cli/analysis-tools/open-source-horusec-engine/overview/)
+- 🌱 [Use the «shift to left»](https://www.redhat.com/fr/topics/devops/shift-left-vs-shift-right)
+- 🌱 [Integrate application security into every sprint](https://www.yeswedev.bzh/blog/integrer-la-securite-des-applications-web-dans-la-demarche-de-developpement)
+- 🌱 [Equip your developers with the right tools](https://blog.stephane-robert.info/post/vscode-favorite-extensions/)
+- 🌱 [Establish a quality barrier](https://blog.eleven-labs.com/fr/qualite-enjeux-developpement-logiciel/)
+- 🌱 [Implement a SBOM tool](https://cyclonedx.org/)
+- 🌱 Track quality barrier exemption requests
+- 🌱 Write an annex on quality and safety requirements
+- 🌱 Control your development team's deliveries
+
+</td></tr></table>  
+
+----
 ## information about CVEs and security vulnerabilities
 <table><tr><td valign="top" width="100%">
 
