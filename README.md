@@ -58,9 +58,9 @@ Here you will find the main links and references for my awareness of IT developm
 - 🌱 [Equip your developers with the right tools](https://blog.stephane-robert.info/post/vscode-favorite-extensions/)
 - 🌱 [Establish a quality barrier](https://blog.eleven-labs.com/fr/qualite-enjeux-developpement-logiciel/)
 - 🌱 [Implement a SBOM tool](https://cyclonedx.org/)
-- 🌱 Track quality barrier exemption requests
-- 🌱 Write an annex on quality and safety requirements
-- 🌱 Control your development team's deliveries
+- 🌱 [Track quality barrier exemption requests](https://cyber.gouv.fr/publications/devsecops)
+- 🌱 [Write an annex on quality and safety requirements](https://cyber.gouv.fr/publications/agilite-et-securite-numeriques-methode-et-outils-lusage-des-equipes-projet)
+- 🌱 [Control your development team deliveries](https://cyber.gouv.fr/publications/gissip-guide-dintegration-de-la-securite-des-systemes-dinformation-dans-les-projets)
 
 </td></tr></table>  
 
