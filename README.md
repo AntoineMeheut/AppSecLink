@@ -1,10 +1,21 @@
-## Hey 👋, Welcome to Secure Development Links
+<p align="center">
+    <img src="https://socialify.git.ci/AntoineMeheut/AntoineMeheut/image?custom_description=Development+security+%21&description=1&language=1&name=1&pattern=Circuit+Board&theme=Dark" alt="AntoineMeheut" width="700" height="300" />
+</p>
 
-### Glad to see you here!  
-Here you will find the main links and references for my awareness of IT development security.
+<div align="center">
+  <img src="https://img.shields.io/github/stars/AntoineMeheut/AppSecLink" />
+</div>
 
-----
-## Press articles
+<br/>
+
+# Glad to see you here!  
+Here you will find all the links and documentation that I talk about in my presentation!
+
+If you find my work useful, please rate this repository with a star, to promote it.
+
+<br/>
+
+# Press articles
 <table><tr><td valign="top" width="100%">
 
 - 🔭 [US car sales plummet due to cyberattack](https://www.capital.fr/economie-politique/les-ventes-de-voitures-degringolent-aux-etats-unis-a-cause-dune-cyberattaque-1499331)
@@ -17,8 +28,9 @@ Here you will find the main links and references for my awareness of IT developm
 
 </td></tr></table>
 
-----
-## Recommendations for development teams
+<br/>
+
+# Recommendations for development teams
 <table><tr><td valign="top" width="100%">
 
 - 🌱 [Injections: Use parameterized queries and always escape or validate user input.](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
@@ -42,8 +54,9 @@ Here you will find the main links and references for my awareness of IT developm
 
 </td></tr></table>  
 
-----
-## Humans at the heart of application security
+<br/>
+
+# Humans at the heart of application security
 <table><tr><td valign="top" width="100%">
 
 - 🌱 [Standardize your development lines](https://google.github.io/styleguide/)
@@ -64,8 +77,9 @@ Here you will find the main links and references for my awareness of IT developm
 
 </td></tr></table>  
 
-----
-## Information about CVEs and security vulnerabilities
+<br/>
+
+# Information about CVEs and security vulnerabilities
 <table><tr><td valign="top" width="100%">
 
 - ❓ [Log4j CVE](https://www.cve.org/CVERecord?id=CVE-2021-44228)
@@ -75,8 +89,9 @@ Here you will find the main links and references for my awareness of IT developm
 
 </td></tr></table>  
 
-----
-## To learn more about secure developments
+<br/>
+
+# To learn more about secure developments
 <table><tr><td valign="top" width="100%">
 
 - ⚡ [Integrating security into projects](https://cyber.gouv.fr/integrer-la-securite-dans-les-projets)
